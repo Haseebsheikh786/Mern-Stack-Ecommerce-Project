@@ -1,0 +1,508 @@
+{
+  "products": [
+    {
+      "title": "iPhone 5",
+      "description": "A compact and classic design, the iPhone 5 offers a 4-inch Retina display with sharp visuals. It boasts a lightweight aluminum body and improved performance over previous models.",
+      "price": 20000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6ItJKXEqSJo3nIcsyMdago0n2XOlNCZsmg&s"
+    },
+    {
+      "title": "iPhone 6",
+      "description": "The iPhone 6 features a larger 4.7-inch display, offering a more immersive viewing experience. With a sleek metal finish, it's both stylish and functional, with upgraded camera capabilities.",
+      "price": 30000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vAWx_zSKP9r1t3d6U9YuS1PlvGV-aG3tBA&s"
+    },
+    {
+      "title": "iPhone 7",
+      "description": "Introducing water resistance and a new advanced camera system, the iPhone 7 is designed for durability. The device also offers stereo speakers and a vibrant Retina HD display.",
+      "price": 40000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7b3hUosZZ77RI_caAsbQmDRY_esNE4en_FQ&s"
+    },
+    {
+      "title": "iPhone 8",
+      "description": "With a stunning glass design, the iPhone 8 supports wireless charging and features the powerful A11 Bionic chip. It delivers fast performance and improved graphics for a smooth user experience.",
+      "price": 50000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEx9wMgkrq2HHtsr1H7mtdVFaiDHGYBGk3Q&s"
+    },
+    {
+      "title": "iPhone X",
+      "description": "A groundbreaking model, the iPhone X features Face ID technology and a brilliant edge-to-edge OLED display. It offers an immersive experience with true-to-life colors and a sleek, futuristic design.",
+      "price": 90000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPpMO2PXZPyqC4-sq38nKLh60qgbVnOu7sg&s"
+    },
+    {
+      "title": "iPhone 11",
+      "description": "The iPhone 11 introduces a dual-camera system with Night mode for stunning low-light photos. Its A13 Bionic chip ensures powerful performance, and the battery life has been significantly improved.",
+      "price": 100000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQC4Z6o2A_LqKQXFGxNV1AQ--gM36QadAZ8w&s"
+    },
+    {
+      "title": "iPhone 12",
+      "description": "Equipped with 5G technology, the iPhone 12 offers faster connectivity and download speeds. It features a Ceramic Shield for better drop protection and a Super Retina XDR display for stunning visuals.",
+      "price": 120000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtx4MgAvGJS83bh7mhZIOCAVQefme7kKnf_A&s"
+    },
+    {
+      "title": "iPhone 13",
+      "description": "The iPhone 13 comes with a smaller notch, offering more screen space and enhanced visuals. It provides longer battery life and improved camera performance, perfect for capturing life's moments.",
+      "price": 140000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaARXxYt3K8RvftntZ8d-nzStS4OyE0aVJkg&s"
+    },
+    {
+      "title": "iPhone 14",
+      "description": "The iPhone 14 features an advanced dual-camera system and a new design with flat edges. Powered by the A15 Bionic chip, it offers incredible performance and efficiency for all your tasks.",
+      "price": 160000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0cS3oMG-GFPWijbScnPFaEZSlCn-v0FLAw&s"
+    },
+    {
+      "title": "iPhone 15",
+      "description": "The latest model, the iPhone 15, boasts cutting-edge technology with a sleek, modern design. It features a powerful new chip, enhanced camera capabilities, and a stunning display for an unmatched experience.",
+      "price": 180000,
+      "brand": "Apple",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJiMDm_PaEINch2nL941hanc-5tRgpZvG8Bw&s"
+    },
+    {
+      "title": "Samsung Galaxy S5",
+      "description": "The Galaxy S5 offers a 5.1-inch Super AMOLED display with vibrant colors and sharp details. It features a water-resistant design and an advanced 16 MP camera for stunning photos.",
+      "price": 25000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiIc3kCDDoFmR2x38uE_uwZJB3cQCGP9Fgkw&s"
+    },
+    {
+      "title": "Samsung Galaxy S6",
+      "description": "With a sleek glass and metal design, the Galaxy S6 boasts a 5.1-inch Quad HD display. It includes wireless charging capabilities and a fast, efficient processor for smooth performance.",
+      "price": 35000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9K2NFPF2umhN696Ydwv9oAb4GE4w3D7QMgw&s"
+    },
+    {
+      "title": "Samsung Galaxy S7",
+      "description": "The Galaxy S7 features a 5.1-inch Quad HD display and is water and dust resistant. Its dual-pixel camera technology delivers fast focusing and excellent low-light performance.",
+      "price": 45000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIby65ufTZ0UE7zJh68ZMKEzjd7knEeA05w&s"
+    },
+    {
+      "title": "Samsung Galaxy S8",
+      "description": "The Galaxy S8 offers an immersive 5.8-inch Infinity Display with minimal bezels. It includes an advanced facial recognition system and a powerful Exynos 8895 processor.",
+      "price": 55000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaT5Fvgm9-SL31gSzN13kilzD6ZL63XzgcA&s"
+    },
+    {
+      "title": "Samsung Galaxy S9",
+      "description": "With a refined design, the Galaxy S9 features a 5.8-inch Super AMOLED display and stereo speakers. The camera offers Super Slow-mo video capabilities and low-light enhancements.",
+      "price": 65000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLhQ-gOBjYkNJTcR6VGWWhBi80CZSnjYvVw&s"
+    },
+    {
+      "title": "Samsung Galaxy S10",
+      "description": "The Galaxy S10 boasts a 6.1-inch Dynamic AMOLED display and an ultrasonic fingerprint sensor. It features a versatile triple-camera system and an all-day intelligent battery.",
+      "price": 75000,
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYr4RDZFaobCItqXawi0XhaNY-_6ehHtf8Q&s"
+    },
+    {
+      "title": "Samsung Galaxy S20",
+      "price": 95000,
+      "description": "Featuring a 6.2-inch Quad HD+ display, the Galaxy S20 offers 5G connectivity and 8K video recording. Its advanced camera system includes a 64 MP telephoto lens and Space Zoom.",
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa1YZUPq1Y6FJcDT0O8t_QRA0Q_9tXxlx8Q&s"
+    },
+    {
+      "title": "Samsung Galaxy S21",
+      "price": 110000,
+      "description": "The Galaxy S21 comes with a 6.2-inch Full HD+ display and a powerful Exynos 2100 processor. It has a pro-grade camera system with 30x Space Zoom and enhanced night mode.",
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4hZZSVD-Qc1a2p_XwAwAeLSa5mXWNKYpWg&s"
+    },
+    {
+      "title": "Samsung Galaxy S22",
+      "price": 125000,
+      "description": "With a sleek design, the Galaxy S22 features a 6.1-inch Dynamic AMOLED display and a versatile triple-camera setup. It offers enhanced low-light photography and a fast-charging battery.",
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5PeF5t-0OmtObtzN4xnESVva1Ip0FeBxsg&s"
+    },
+    {
+      "title": "Samsung Galaxy S23",
+      "price": 140000,
+      "description": "The latest Galaxy S23 features a cutting-edge 6.2-inch AMOLED display and a powerful Exynos 2200 chip. It offers an advanced camera system with AI-enhanced photography and video capabilities.",
+      "brand": "Samsung",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmu6AI2qsF5fVF8R-Nt2acy61Efqj1irdFQ&s"
+    },
+    {
+      "title": "OPPO F1",
+      "price": 20000,
+      "description": "The OPPO F1, known as the 'Selfie Expert,' features a 5-inch display and a 13 MP rear camera. It offers a sleek design and impressive front camera capabilities for great selfies.",
+      "brand": "Oppo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRImAvA9RrNrspoFHVHhzVi_GSPmHg_sqfg&s"
+    },
+    {
+      "title": "OPPO F3",
+      "price": 30000,
+      "description": "With dual selfie cameras, the OPPO F3 offers a 5.5-inch display and a 16 MP main camera. It delivers great performance and an extended battery life for a smooth user experience.",
+      "brand": "Oppo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFDocSh_6C0WN_YJh9KylVMksZzSH0WqL3g&s"
+    },
+    {
+      "title": "OPPO F5",
+      "price": 35000,
+      "description": "The OPPO F5 features a 6-inch FHD+ display and an AI-powered 20 MP front camera. It's designed for stunning selfies and clear, vibrant visuals, ideal for social media enthusiasts.",
+      "brand": "Oppo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YIginX3GKOKLTnbmiMDRjP21b8hEvIw8PQ&s"
+    },
+    {
+      "title": "OPPO F7",
+      "price": 40000,
+      "description": "Featuring a 6.23-inch display with a notch, the OPPO F7 boasts a 25 MP AI-powered front camera. It offers advanced beauty modes and a powerful MediaTek Helio P60 processor.",
+      "brand": "Oppo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy05VgV-qlGFxCxIqq4l-XmgZmL2QBBL86mQ&s"
+    },
+    {
+      "title": "OPPO F9",
+      "price": 45000,
+      "brand": "Oppo",
+      "description": "The OPPO F9 offers a waterdrop screen design and a 25 MP front camera with AI Beauty Technology. It supports VOOC Flash Charge for faster charging and has a vibrant 6.3-inch display.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDjMSuHpFfqGVqsqEb9g31rraC_y0RJyF8tA&s"
+    },
+    {
+      "title": "OPPO Reno 2",
+      "price": 60000,
+      "brand": "Oppo",
+      "description": "The OPPO Reno 2 features a quad-camera setup and a 6.5-inch AMOLED display. It has a unique shark-fin pop-up front camera and offers 20x digital zoom for versatile photography.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuTvCjp-PNOEmE81cBsCP6t2dSZ_8nTi-Ug&s"
+    },
+    {
+      "title": "OPPO Reno 3",
+      "brand": "Oppo",
+      "price": 70000,
+      "description": "With a 6.4-inch AMOLED display, the OPPO Reno 3 offers a 48 MP quad-camera system. It supports 5G connectivity and provides a sleek, stylish design for modern users.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aLx23_EzjSZKSrVUH1K4j31sunxZee8w0w&s"
+    },
+    {
+      "title": "OPPO Find X3 Pro",
+      "price": 130000,
+      "description": "The OPPO Find X3 Pro boasts a 6.7-inch AMOLED display and a powerful Snapdragon 888 processor. It features a 50 MP quad-camera system and offers 10-bit color for vivid, lifelike visuals.",
+      "brand": "Oppo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkqKtRLD5zSYXrYc7ZM_TERQlxsaXmJrd1A&s"
+    },
+    {
+      "title": "Vivo V5",
+      "price": 25000,
+      "description": "The Vivo V5 is known for its impressive 20 MP front camera, offering crystal-clear selfies. It features a 5.5-inch display and comes with a sleek, lightweight design.",
+      "brand": "Vivo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qexQT0vt32Vs3hUdf0XvaF427-tfPO5eyw&s"
+    },
+    {
+      "title": "Vivo V7",
+      "price": 30000,
+      "brand": "Vivo",
+      "description": "With a 24 MP front camera, the Vivo V7 is perfect for selfie enthusiasts. It features a 5.7-inch FullView display and offers a comfortable, one-handed operation.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtCmuqPHKV9mQff7QyF0ODPtIAj3-yGZMvA&s"
+    },
+    {
+      "title": "Vivo V9",
+      "price": 35000,
+      "brand": "Vivo",
+      "description": "The Vivo V9 offers a 6.3-inch Full HD+ display with a notch design. It includes a dual rear camera setup and a 24 MP front camera for stunning selfies and group shots.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxU_lWI-XiTF78CK2M34i6yvpBlm9N1jYe8g&s"
+    },
+    {
+      "title": "Vivo V11",
+      "price": 40000,
+      "brand": "Vivo",
+      "description": "Featuring an in-display fingerprint sensor, the Vivo V11 offers a 6.41-inch Super AMOLED display. Its 25 MP front camera and AI features enhance photo quality and user experience.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6P_I92YPyZ4rZO1X6WPO2e1s4ZvjN2j4whg&s"
+    },
+    {
+      "title": "Vivo V15",
+      "brand": "Vivo",
+      "price": 45000,
+      "description": "The Vivo V15 comes with a 32 MP pop-up front camera and a 6.53-inch Ultra FullView display. It includes a triple rear camera setup with AI features for superior photography.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJ6PkGm3GbWDg_FYeBq9QLhoXwDUd-MmI9w&s"
+    },
+    {
+      "title": "Vivo V17",
+      "price": 50000,
+      "brand": "Vivo",
+      "description": "With a 48 MP quad-camera system, the Vivo V17 offers impressive photography capabilities. It features a 6.44-inch Super AMOLED display and a 32 MP front camera for great selfies.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6LRMRGDAaKByvNp1VJ51ysMGB0QEtY7LvA&s"
+    },
+    {
+      "title": "Vivo V19",
+      "price": 55000,
+      "description": "The Vivo V19 features a 6.44-inch AMOLED display and dual front cameras, including a 32 MP main camera. Its AI-powered quad rear camera setup delivers stunning photos in any lighting.",
+      "brand": "Vivo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI8YSuJ-d7LaviMlUhM7MY7nwZ3fKZNAY0Gg&s"
+    },
+    {
+      "title": "Vivo V20",
+      "brand": "Vivo",
+      "price": 60000,
+      "description": "The Vivo V20 offers a sleek design with a 6.44-inch AMOLED display and a 44 MP Eye Autofocus front camera. It features a 64 MP triple rear camera setup for versatile photography.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiktbdoJ8gK4zzA3YqFZxg_q2y7stxqoTijA&s"
+    },
+    {
+      "title": "Vivo V21",
+      "price": 65000,
+      "description": "Featuring a 6.44-inch AMOLED display and a 44 MP front camera with OIS, the Vivo V21 is designed for crystal-clear selfies. It includes a 64 MP rear camera with night mode for excellent low-light photography.",
+      "brand": "Vivo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWTwOcFPKPE_PbilmbKJEPeGFjcD5PkWt7Q&s"
+    },
+    {
+      "title": "Vivo X60 Pro",
+      "price": 95000,
+      "brand": "Vivo",
+      "description": "The Vivo X60 Pro boasts a 6.56-inch AMOLED display and a powerful Snapdragon 870 processor. It features a ZEISS co-engineered imaging system for professional-grade photos and videos.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbMCnYaW8rhruGshpf6yvRrAyZoobI6Zwww&s"
+    },
+    {
+      "title": "Infinix Hot 8",
+      "price": 15000,
+      "brand": "Infinix",
+      "description": "The Infinix Hot 8 offers a 6.52-inch HD+ display and a triple rear camera setup. It features a large 5000 mAh battery for extended use and a sleek, modern design.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtuOA9YgdcfJ-fMwpiayR2p_KAssXkHyHA&s"
+    },
+    {
+      "title": "Infinix S5",
+      "price": 20000,
+      "brand": "Infinix",
+      "description": "With a 6.6-inch Infinity-O display, the Infinix S5 provides an immersive viewing experience. It has a 32 MP AI front camera and a quad rear camera system for versatile photography.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-N03yAUu1-CTD0Tgjk2JHsz26Q4isi3qemQ&s"
+    },
+    {
+      "title": "Infinix Note 7",
+      "price": 25000,
+      "brand": "Infinix",
+      "description": "The Infinix Note 7 features a 6.95-inch HD+ display and a 48 MP quad-camera setup. It includes a powerful Helio G70 processor and a large battery for gaming and multitasking.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNfeUKblA0HN4GRyNHiGEFFtQyU_ouC8agw&s"
+    },
+    {
+      "title": "Infinix Hot 9",
+      "brand": "Infinix",
+      "price": 17000,
+      "description": "The Infinix Hot 9 boasts a 6.6-inch HD+ display and a 13 MP AI quad-camera. It offers a 5000 mAh battery and DTS audio processing for an enhanced audio experience.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0DhwZIBE_C_IRu14Ejqb7cUsPmJvuShvOA&s"
+    },
+    {
+      "title": "Infinix Zero 8",
+      "price": 35000,
+      "brand": "Infinix",
+      "description": "Featuring a 6.85-inch Full HD+ display, the Infinix Zero 8 offers a dual front camera setup and a 64 MP quad rear camera. It provides fast charging and a smooth gaming experience.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iGsMrG-PHMAvXZsLv0ah6tW2v9pkafybfg&s"
+    },
+    {
+      "title": "Infinix Hot 10",
+      "brand": "Infinix",
+      "price": 20000,
+      "description": "The Infinix Hot 10 offers a 6.78-inch HD+ display and a 16 MP AI quad-camera. It comes with a MediaTek Helio G70 processor and a large 5200 mAh battery for extended use.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7uBaOY2v0qhv-enOQUjys2xg-wrgryQCCA&s"
+    },
+    {
+      "title": "Infinix Note 10 Pro",
+      "price": 40000,
+      "description": "The Infinix Note 10 Pro offers a 6.95-inch Full HD+ display and a 64 MP quad-camera system. It comes with a Helio G95 processor and 33W fast charging for a premium experience.",
+      "brand": "Infinix",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWta2FBw0GjM4Ae3CyMlIOwJhu_UBCOFT3Xg&s"
+    },
+    {
+      "title": "Huawei P20",
+      "price": 40000,
+      "brand": "Huawei",
+      "description": "The Huawei P20 features a 5.8-inch Full HD display and a dual rear camera setup with Leica optics. It offers a sleek design and powerful performance for a premium user experience.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabvQYYEJlipCjEscVXR0hfPayqwJsNL-Opw&s"
+    },
+    {
+      "title": "Huawei P30",
+      "price": 50000,
+      "description": "With a 6.1-inch OLED display and a triple rear camera system, the Huawei P30 provides exceptional photography capabilities and vibrant visuals. It includes a powerful Kirin 980 processor.",
+      "brand": "Huawei",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9ilviUSqvQP4uX5En_vYE3T6KEqoTEfHyg&s"
+    },
+    {
+      "title": "Huawei P40",
+      "brand": "Huawei",
+      "price": 60000,
+      "description": "The Huawei P40 offers a 6.1-inch OLED display and a Leica Quad camera system. It features 5G connectivity and a Kirin 990 chipset for advanced performance and connectivity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwn7ELmOriXSPQC7GAS2o72x-40YFl64_drw&s"
+    },
+    {
+      "title": "Huawei Mate 20",
+      "brand": "Huawei",
+      "price": 55000,
+      "description": "Featuring a 6.53-inch display and a triple rear camera system, the Huawei Mate 20 provides impressive photography and a large screen for immersive experiences. It includes a powerful Kirin 980 processor.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kqOIeTQlxp4fuKiNlrFfR3ffonC8Ni6TEg&s"
+    },
+    {
+      "title": "Huawei Mate 30",
+      "price": 65000,
+      "brand": "Huawei",
+      "description": "The Huawei Mate 30 features a 6.62-inch OLED display and a Leica Quad camera setup. It supports 5G connectivity and is powered by the Kirin 990 chipset, offering high performance and connectivity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7kw3eU8sT-HtIt92GuLnHJ36J4LLZg-mRA&s"
+    },
+    {
+      "title": "Huawei Nova 5",
+      "price": 35000,
+      "brand": "Huawei",
+      "description": "With a 6.39-inch AMOLED display and a quad-camera system, the Huawei Nova 5 offers a stylish design and powerful performance. It includes a Kirin 980 processor and a large battery for extended use.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8H0OoFIJIMc9tEiDzX9jsJSvsrATQ_SbDQ&s"
+    },
+    {
+      "title": "Huawei Nova 6",
+      "price": 40000,
+      "description": "The Huawei Nova 6 features a 6.57-inch display and a dual front camera setup. It offers 5G connectivity and a powerful Kirin 990 processor for high-speed performance and connectivity.",
+      "brand": "Huawei",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvSwHo4dWpM4k_mLGR7cuYGApmjpqTRePpQ&s"
+    },
+    {
+      "title": "Nokia 6.1",
+      "price": 25000,
+      "description": "The Nokia 6.1 features a 5.5-inch Full HD display and a 16 MP rear camera. It offers a clean Android experience and a durable build, suitable for everyday use.",
+      "brand": "Nokia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQqahif4Rf4WPY4PqvYY8X9mwGthl0p5oBw&s"
+    },
+    {
+      "title": "Nokia 7.1",
+      "price": 30000,
+      "description": "With a 5.84-inch Full HD+ display and a dual-camera setup, the Nokia 7.1 offers excellent performance and a high-quality screen. It includes a Snapdragon 636 processor for smooth operation.",
+      "brand": "Nokia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTev6RaCdbZN6nUfnuavmt1HwtiPiFpL7cIxg&s"
+    },
+    {
+      "title": "Nokia 8.1",
+      "price": 40000,
+      "brand": "Nokia",
+      "description": "The Nokia 8.1 features a 6.18-inch Full HD+ display and a dual rear camera system with ZEISS optics. It is powered by the Snapdragon 710 chipset and provides a smooth user experience.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGayRHaf9F1y1o71xxojZGXSqNZIvfyQybQ&s"
+    },
+    {
+      "title": "Nokia 9 PureView",
+      "price": 60000,
+      "brand": "Nokia",
+      "description": "Featuring a 5.99-inch QHD+ display and a unique five-camera setup, the Nokia 9 PureView offers advanced photography capabilities. It includes a Snapdragon 845 processor for powerful performance.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_DcsEpxhbB-0NBEJmdREb2fjAP6xZalzWQ&s"
+    },
+    {
+      "title": "Nokia X20",
+      "price": 55000,
+      "brand": "Nokia",
+      "description": "The Nokia X20 boasts a 6.67-inch Full HD+ display and a quad-camera setup. It supports 5G connectivity and features a durable design, making it a solid choice for modern users.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjIFBFA2rWHxdBERsIV79mbD3WADiieIx2Q&s"
+    },
+    {
+      "title": "Honor 10 Lite",
+      "price": 25000,
+      "brand": "Honor",
+      "description": "The Honor 10 Lite features a 6.21-inch Full HD display and a 24 MP front camera. It offers a sleek design and good performance for everyday tasks.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjIFBFA2rWHxdBERsIV79mbD3WADiieIx2Q&s"
+    },
+    {
+      "title": "Honor 20",
+      "price": 35000,
+      "brand": "Honor",
+      "description": "With a 6.26-inch Full HD display and a quad-camera system, the Honor 20 provides excellent photo quality and performance. It includes a powerful Kirin 980 processor.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHZm353XZL1i1WPoMVEVUz-vztfqqyEghrw&s"
+    },
+    {
+      "title": "Honor 30",
+      "price": 45000,
+      "brand": "Honor",
+      "description": "The Honor 30 features a 6.53-inch OLED display and a triple-camera setup. It supports 5G connectivity and offers top-notch performance with its Kirin 985 chipset.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VxGXt1Sz1JhYMIDbtdUXq_vR6vMZX6jNYQ&s"
+    },
+    {
+      "title": "Honor X10",
+      "price": 40000,
+      "brand": "Honor",
+      "description": "The Honor X10 comes with a 6.63-inch Full HD+ display and a 40 MP triple-camera system. It includes a pop-up selfie camera and 5G support for future-proof connectivity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDti91Qn1xMUjxOQXt2-uqMc51LztEZ2Ce2w&s"
+    },
+    {
+      "title": "Honor V40",
+      "price": 60000,
+      "brand": "Honor",
+      "description": "Featuring a 6.72-inch OLED display and a 50 MP quad-camera setup, the Honor V40 offers advanced photography and high performance with its MediaTek Dimensity 1000+ processor.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2uTbXeEvlR0BUrcmYnrhmdlz8xpbbNwSSQ&s"
+    },
+    {
+      "title": "Xiaomi Mi A3",
+      "price": 25000,
+      "brand": "Xiaomi",
+      "description": "The Xiaomi Mi A3 features a 6.08-inch AMOLED display and a triple-camera system. It offers a clean Android experience and a powerful Snapdragon 665 processor.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoQsUgmLL2YnO1orEx5e9YEI5fr6RLF3lC5A&s"
+    },
+    {
+      "title": "Xiaomi Redmi Note 9",
+      "price": 30000,
+      "brand": "Xiaomi",
+      "description": "With a 6.53-inch Full HD+ display and a quad-camera setup, the Xiaomi Redmi Note 9 offers excellent performance and battery life with its 5020 mAh battery.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ3ZVLlubC0c8qe4CDBszIgyIy_SYnBKBXwA&s"
+    },
+    {
+      "title": "Xiaomi Mi 10",
+      "price": 50000,
+      "brand": "Xiaomi",
+      "description": "The Xiaomi Mi 10 features a 6.67-inch AMOLED display and a 108 MP quad-camera system. It includes a Snapdragon 865 processor and 5G support for high-speed connectivity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1W8736QgS0_fWNbfMSki2zTIMJ1A-XcVzhA&s"
+    },
+    {
+      "title": "Xiaomi Poco X3",
+      "price": 35000,
+      "brand": "Xiaomi",
+      "description": "The Poco X3 offers a 6.67-inch Full HD+ display with a 120 Hz refresh rate and a 64 MP quad-camera setup. It provides strong performance with its Snapdragon 732G chipset.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPUa608JNDQmzQaPalI8fpo94yN8-ZTIUvg&s"
+    },
+    {
+      "title": "Xiaomi Redmi K40",
+      "price": 60000,
+      "brand": "Xiaomi",
+      "description": "Featuring a 6.67-inch AMOLED display and a 48 MP triple-camera system, the Xiaomi Redmi K40 offers high performance with its Snapdragon 888 processor and 5G support.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JqvEiTdOrftr8KR7uEx12hwUoad45bC7xw&s"
+    },
+    {
+      "title": "Motorola Moto G8",
+      "price": 22000,
+      "brand": "Motorola",
+      "description": "The Motorola Moto G8 features a 6.4-inch Full HD display and a triple-camera setup. It offers a clean Android experience and a large 4000 mAh battery.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMYRUHbc9-5Rx95PoUmMiszoBhitYmm8ipA&s"
+    },
+    {
+      "title": "Motorola Moto G Power",
+      "price": 28000,
+      "description": "With a 6.4-inch Full HD+ display and a 16 MP triple-camera system, the Moto G Power includes a massive 5000 mAh battery for extended use and a Snapdragon 665 processor.",
+      "brand": "Motorola",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmaUqF0Dk05AcmxXoCYRop69NJ-UG4gyswA&s"
+    },
+    {
+      "title": "Motorola Moto Edge",
+      "price": 45000,
+      "description": "The Motorola Moto Edge offers a 6.7-inch OLED display with a 90 Hz refresh rate and a 64 MP triple-camera setup. It includes a Snapdragon 765G processor and 5G support.",
+      "brand": "Motorola",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYxClmpejvNnW_9QbLKfphiLQ7VB6XqRdvQ&s"
+    },
+    {
+      "title": "Motorola Moto Razr",
+      "price": 60000,
+      "description": "The Motorola Moto Razr features a 6.2-inch foldable OLED display and a 48 MP rear camera. It combines classic design with modern technology, including a Snapdragon 710 processor.",
+      "brand": "Motorola",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14Neav4EylNUi8iulmBHnrO5mHnM1s_w1Tg&s"
+    },
+    {
+      "title": "Motorola Moto G Stylus",
+      "price": 32000,
+      "description": "Featuring a 6.4-inch Full HD+ display and a 48 MP quad-camera system, the Moto G Stylus includes a built-in stylus for note-taking and creative tasks, powered by a Snapdragon 665 chipset.",
+      "brand": "Motorola",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruCgSSFow67hmXQn3JO5XeX1_jmKxshIiaQ&s"
+    }
+  ]
+}
